@@ -16,3 +16,5 @@ worker2 = HR(2, "Giga Chad", "Mativator")
 
 print(worker1.get_details())
 print(worker2.get_details())
+
+# Third edition
